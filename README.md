@@ -1,0 +1,9 @@
+# github_events
+
+The program can be used to see latest activities of any GitHub user. See [REST API endpoints for events](https://docs.github.com/en/rest/activity/events?apiVersion=2022-11-28) for more information.
+
+To run this use:
+```
+python main.py <username> <lines>
+```
+where `<lines>` is the number of more recent events to be shown.
