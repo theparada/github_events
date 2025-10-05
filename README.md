@@ -6,4 +6,4 @@ To run this use:
 ```
 python main.py <username> <lines>
 ```
-where `<lines>` is the number of more recent events to be shown.
+where `<lines>` is the number of the most recent events to be shown.
